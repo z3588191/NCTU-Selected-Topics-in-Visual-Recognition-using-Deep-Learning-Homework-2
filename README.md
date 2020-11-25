@@ -74,6 +74,6 @@ Could use `jupyter notebook` to open `visualization.ipynb` and visualize the out
 
 
 ## Reference
-[torchvision](https://github.com/pytorch/vision)
-[pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
-[Cross-Stage Partial Networks](https://arxiv.org/abs/1911.11929)
+1. [torchvision](https://github.com/pytorch/vision)
+2. [pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
+3. [Cross-Stage Partial Networks](https://arxiv.org/abs/1911.11929)
