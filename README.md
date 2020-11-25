@@ -33,16 +33,14 @@ After downloading, the data directory is structured as:
 ```
 ${ROOT}
   +- test
-  |  +- testing_data
-  |  |  +- 1.png
-  |  |  +- 2.png
-  |  |  +- ...
+  |  +- 1.png
+  |  +- 2.png
+  |  +- ...
   +- train
-  |  +- training_data
-  |  |  +- 1.png
-  |  |  +- 2.png
-  |  |  +- ...
-  |  |  +- digitStruct.mat
+  |  +- 1.png
+  |  +- 2.png
+  |  +- ...
+  |  +- digitStruct.mat
 
 ```
 
